@@ -1,6 +1,6 @@
 👋 Hi, I'm Vaishnavi Raj
 Final Year B.Tech Student (Information Technology)
-2025 Batch | Machine Learning Enthusiast | Software development
+2025 Batch | Machine Learning Enthusiast | Backend developer | Software devlopment
 
 🚀 About Me
 🎓 I am a final-year B.Tech student in Information Technology, passionate about Machine Learning, Software Development, and AI/Cloud Technologies.
