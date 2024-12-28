@@ -87,6 +87,5 @@ A **Streamlit-based** application that performs text summarization and translati
 
 ✨ *Open to collaborations, internships, and full-time opportunities in **Machine Learning**, **Backend Development**, and **Software Development**.*  
 
-LinkedIn: https://www.linkedin.com/in/vaishnaviraj721/
-Email: rajvaishnavi475@gmail.com
+
 
