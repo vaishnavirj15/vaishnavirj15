@@ -1,42 +1,92 @@
-👋 Hi, I'm Vaishnavi Raj
-Final Year B.Tech Student (Information Technology)
-2025 Batch | Machine Learning Enthusiast | Backend developer | Software devlopment
+# 👋 Hi, I'm Vaishnavi Raj  
+**Final Year B.Tech Student (Information Technology)**  
+**2025 Batch | Machine Learning Enthusiast | Backend Developer | Software Developer**  
 
-🚀 About Me
-🎓 I am a final-year B.Tech student in Information Technology, passionate about Machine Learning, Software Development, and AI/Cloud Technologies.
-💼 I have completed internships in AI & Cloud at Edunet Foundation and Backend Development at To-Let Globe.
-💻 Currently working on projects like Facial recognition system, Disease Prediction Platforms, Text Summarizers, and MERN Stack applications.
-🌱 I’m always exploring new tech stacks and eager to take on projects that challenge my skill set.
+---
 
-🔧 Technical Skills
-Languages: Python, C, C++, Java
-Web Development: MERN Stack, HTML, CSS, JavaScript
-Machine Learning: Scikit-learn, Pandas, NumPy, Google Colab, NLP
-Cloud Platforms: IBM Cloud
-Frameworks: Streamlit, Node.js, Express.js
-Databases: MongoDB, MySQL
-Version Control: Git, GitHub
+## 🚀 About Me  
+🎓 I am a passionate and dedicated final-year B.Tech student specializing in **Information Technology** at the Birla Institute of Technology, Mesra (Patna Campus).  
+💡 With a keen interest in **Machine Learning**, **Software Development**, and **AI/Cloud Technologies**, I constantly explore new domains to grow my skill set.  
+💼 My professional experience includes internships in **AI & Cloud** at **Edunet Foundation** and **Backend Development** at **To-Let Globe**.  
+🔭 Currently, I'm working on impactful projects like **Facial Recognition Systems**, **Disease Prediction Platforms**, **Text Summarizers**, and **MERN Stack Applications**.  
+🌱 I am always open to learning, collaborating, and taking on challenges that enhance my technical and problem-solving abilities.  
 
-💡 Projects
-Hospital Management System
-A full-fledged web application for managing hospital operations like appointments, staff, and patient records.
+---
 
-Disease Prediction Platform
-Built a predictive health analysis tool for diseases such as diabetes and heart disease, using machine learning algorithms on Google Colab.
+## 🔧 Technical Skills  
 
-Article Summarizer and Translator
-A Streamlit-based application to summarize and translate text content dynamically using NLP models.
+### **Languages**  
+- Python  
+- C, C++  
+- Java  
 
-Google Translator app
-A desktop-based language translation application built using Python and the Tkinter library, utilizes the Google Translate API to translate text between different languages, offering a simple and interactive user interface for smooth translation.
+### **Web Development**  
+- MERN Stack (MongoDB, Express.js, React, Node.js)  
+- HTML, CSS, JavaScript  
 
-Space Exploration
-This web-based project is an interactive exploration of space, utilizing multiple HTML, CSS, and JavaScript files to create a seamless and visually engaging user experience. It provides various pages for exploring space-related content, including events, galleries, and other information related to space exploration.
+### **Machine Learning**  
+- Scikit-learn  
+- Pandas, NumPy  
+- Google Colab  
+- NLP Libraries (NLTK, Hugging Face)  
 
-Weather App
-A simple web-based weather application that allows users to check real-time weather information by entering the city name. The app fetches weather data using the OpenWeatherMap API and displays details such as temperature, humidity, wind speed, and weather conditions.
+### **Cloud Platforms**  
+- IBM Cloud  
 
-🌍 Let's Connect!
+### **Frameworks**  
+- Streamlit  
+- Node.js  
+- Express.js  
+
+### **Databases**  
+- MongoDB  
+- MySQL  
+
+### **Version Control**  
+- Git, GitHub  
+
+---
+
+## 💡 Projects  
+
+### **Hospital Management System**  
+A full-stack web application designed to manage hospital operations, including appointments, staff records, and patient data.
+
+### **Disease Prediction Platform**  
+A predictive health analysis tool utilizing machine learning algorithms to assess risks for diseases like diabetes and heart disease. Developed and deployed on **Google Colab**.  
+
+### **Article Summarizer and Translator**  
+A **Streamlit-based** application that dynamically summarizes and translates text content using **NLP models**.  
+
+### **Google Translator App**  
+A desktop application built with **Python** and **Tkinter**, leveraging the Google Translate API for real-time language translation with a user-friendly interface.  
+
+### **Space Exploration**  
+An interactive web application for exploring space-related content, built using **HTML**, **CSS**, and **JavaScript**. Features include events, galleries, and educational information about space exploration.  
+
+### **Weather App**  
+A simple web-based weather application that retrieves and displays real-time weather details (e.g., temperature, humidity, wind speed) using the **OpenWeatherMap API**.  
+
+### **Face Recognition System**  
+A **Flask-based** web application that automates attendance management by recognizing faces in real-time. The system captures faces via a webcam or image and automatically marks attendance, improving accuracy and efficiency. Uses **OpenCV** and **dlib** for facial recognition.
+
+### **Text Summarizer**  
+A **Streamlit-based** application that performs text summarization and translation using **NLP models**. Users can input text or URLs for summarization in multiple languages, including **English**, **Hindi**, and **French**.
+
+---
+
+## 🌍 Let's Connect!  
+
+- **Email**: [rajvaishnavi475@gmail.com](mailto:rajvaishnavi475@gmail.com)  
+- **LinkedIn**: [Vaishnavi Raj](https://www.linkedin.com/in/vaishnaviraj721/)  
+- **GitHub**: [vaishnavirj15](https://github.com/vaishnavirj15)  
+
+---  
+
+
+
+✨ *Open to collaborations, internships, and full-time opportunities in **Machine Learning**, **Backend Development**, and **Software Development**.*  
+
 LinkedIn: https://www.linkedin.com/in/vaishnaviraj721/
 Email: rajvaishnavi475@gmail.com
 
