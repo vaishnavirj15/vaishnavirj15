@@ -6,9 +6,9 @@
 
 ## 🚀 About Me  
 🎓 I am a passionate and dedicated final-year B.Tech student specializing in **Information Technology** at the Birla Institute of Technology, Mesra (Patna Campus).  
-💡 With a keen interest in **Machine Learning**, **Software Development**, and **AI/Cloud Technologies**, I constantly explore new domains to grow my skill set.  
-💼 My professional experience includes internships in **AI & Cloud** at **Edunet Foundation** and **Backend Development** at **To-Let Globe**.  
-🔭 Currently, I'm working on impactful projects like **Facial Recognition Systems**, **Disease Prediction Platforms**, **Text Summarizers**, and **MERN Stack Applications**.  
+💡 With a keen interest in **Machine Learning**, **Data Science**, and **AI/Cloud Technologies**, I constantly explore new domains to grow my skill set.  
+💼 My professional experience includes internships in **AI & Cloud** at **Edunet Foundation** and **Backend Development** at **To-Let Globe** and at **CSIR-URDIP**.  
+🔭 Currently, I'm working on impactful projects like **Facial Recognition Systems**, **Disease Prediction Platforms**, **Text Summarizers**, **IDS** and **Data Science projects**.  
 🌱 I am always open to learning, collaborating, and taking on challenges that enhance my technical and problem-solving abilities.  
 
 ---
@@ -28,7 +28,8 @@
 - Scikit-learn  
 - Pandas, NumPy  
 - Google Colab  
-- NLP Libraries (NLTK, Hugging Face)  
+- NLP Libraries (NLTK, Hugging Face)
+- tensorflow 
 
 ### **Cloud Platforms**  
 - IBM Cloud  
