@@ -73,6 +73,9 @@ A **Flask-based** web application that automates attendance management by recogn
 ### **Text Summarizer**  
 A **Streamlit-based** application that performs text summarization and translation using **NLP models**. Users can input text or URLs for summarization in multiple languages, including **English**, **Hindi**, and **French**.
 
+### ** LSTM Based IDS**
+A **flask application ** that incorporates bi-directional lstm model for detecting intrusion in network system. 
+
 ---
 
 ## 🌍 Let's Connect!  
