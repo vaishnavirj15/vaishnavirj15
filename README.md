@@ -1,95 +1,85 @@
 # 👋 Hi, I'm Vaishnavi Raj  
-**Final Year B.Tech Student (Information Technology)**  
-**2025 Batch | Machine Learning Enthusiast | Backend Developer | Software Developer**  
+**B.Tech Information Technology | Class of 2025**  
+**Aspirirng Data analyst | Machine Learning Enthusiast | Backend Developer**  
 
 ---
 
 ## 🚀 About Me  
-🎓 I am a passionate and dedicated final-year B.Tech student specializing in **Information Technology** at the Birla Institute of Technology, Mesra (Patna Campus).  
-💡 With a keen interest in **Machine Learning**, **Data Science**, and **AI/Cloud Technologies**, I constantly explore new domains to grow my skill set.  
-💼 My professional experience includes internships in **AI & Cloud** at **Edunet Foundation** and **Backend Development** at **To-Let Globe** and at **CSIR-URDIP**.  
-🔭 Currently, I'm working on impactful projects like **Facial Recognition Systems**, **Disease Prediction Platforms**, **Text Summarizers**, **IDS** and **Data Science projects**.  
-🌱 I am always open to learning, collaborating, and taking on challenges that enhance my technical and problem-solving abilities.  
+I am a **B.Tech IT graduate (Class of 2025)** from **Birla Institute of Technology, Mesra (Patna Campus)** with a strong passion for **Data Engineering, Analytics, and Machine Learning**.  
+- 💼 Completed internships in **AI & Cloud** at **Edunet Foundation**, **Backend Development** at **To-Let Globe**, and **Software Development** at **CSIR-URDIP**.  
+- 🔬 Skilled in designing and deploying **ML models, predictive analytics, and data-driven solutions**.  
+- 🌱 Continuously learning and applying emerging technologies to solve real-world problems.  
+
+I aim to contribute to projects that **leverage data and ML to drive actionable insights** and make a measurable impact.  
 
 ---
 
-## 🔧 Technical Skills  
+## 💡 Technical Skills  
 
-### **Languages**  
-- Python  
-- C, C++  
-- Java  
+### **Programming & Data Analysis**  
+- Python, C, C++, Java  
+- Pandas, NumPy, Scikit-learn, TensorFlow  
+- NLP: NLTK, Hugging Face  
 
-### **Web Development**  
+### **Data Visualization & BI**  
+- Matplotlib, Seaborn, Plotly  
+- Power BI, Tableau  
+
+### **Web & Backend Development**  
 - MERN Stack (MongoDB, Express.js, React, Node.js)  
+- Flask, Streamlit  
 - HTML, CSS, JavaScript  
 
-### **Machine Learning**  
-- Scikit-learn  
-- Pandas, NumPy  
-- Google Colab  
-- NLP Libraries (NLTK, Hugging Face)
-- tensorflow 
-
-### **Cloud Platforms**  
+### **Databases & Cloud**  
+- MongoDB, MySQL, Microsoft SQL Server  
 - IBM Cloud  
 
-### **Frameworks**  
-- Streamlit  
-- Node.js  
-- Express.js  
-
-### **Databases**  
-- MongoDB  
-- MySQL  
-
-### **Version Control**  
-- Git, GitHub  
+### **Version Control & Tools**  
+- Git, GitHub, Jupyter Notebook, Google Colab  
 
 ---
 
-## 💡 Projects  
+## 🌟 Projects  
 
-### **Hospital Management System**  
-A full-stack web application designed to manage hospital operations, including appointments, staff records, and patient data.
+### **Customer & Sales Data Warehouse**  
+- Designed and implemented a **SQL Server-based Data Warehouse** for a bike retail business.  
+- Built **ETL pipelines, schemas, and views** for clean and structured data.  
+- Visualized **key metrics and insights using Power BI** to support business decisions.  
 
 ### **Disease Prediction Platform**  
-A predictive health analysis tool utilizing machine learning algorithms to assess risks for diseases like diabetes and heart disease. Developed and deployed on **Google Colab**.  
+- Developed **ML models** to predict risks for diseases like diabetes and heart disease with **90%+ accuracy**.  
+- Deployed interactive dashboards using **Streamlit** and **Google Colab** for end-user accessibility.  
 
-### **Article Summarizer and Translator**  
-A **Streamlit-based** application that dynamically summarizes and translates text content using **NLP models**.  
+### **Face Recognition Attendance System**  
+- Built a **Flask-based facial recognition system** for automated attendance.  
+- Used **OpenCV** and **dlib**, achieving real-time recognition and efficient data logging.  
 
-### **Google Translator App**  
-A desktop application built with **Python** and **Tkinter**, leveraging the Google Translate API for real-time language translation with a user-friendly interface.  
+### **Text Summarizer & Translator**  
+- Streamlit application to **summarize and translate text** from URLs or input text in multiple languages.  
+- Utilized **NLP models** for accurate and contextual summarization.  
 
-### **Space Exploration**  
-An interactive web application for exploring space-related content, built using **HTML**, **CSS**, and **JavaScript**. Features include events, galleries, and educational information about space exploration.  
+### **LSTM-Based Intrusion Detection System (IDS)**  
+- Developed a **bi-directional LSTM model** to detect network intrusions.  
+- Integrated into a Flask application for real-time monitoring.  
 
-### **Weather App**  
-A simple web-based weather application that retrieves and displays real-time weather details (e.g., temperature, humidity, wind speed) using the **OpenWeatherMap API**.  
-
-### **Face Recognition System**  
-A **Flask-based** web application that automates attendance management by recognizing faces in real-time. The system captures faces via a webcam or image and automatically marks attendance, improving accuracy and efficiency. Uses **OpenCV** and **dlib** for facial recognition.
-
-### **Text Summarizer**  
-A **Streamlit-based** application that performs text summarization and translation using **NLP models**. Users can input text or URLs for summarization in multiple languages, including **English**, **Hindi**, and **French**.
-
-### **LSTM Based IDS**
-A **flask application** that incorporates bi-directional lstm model for detecting intrusion in network system. 
+### **Additional Projects**  
+- **Hospital Management System** – Full-stack web application managing hospital operations.  
+- **Google Translator App** – Desktop app using Python and Tkinter.  
+- **Space Exploration Web App** – Interactive educational platform.  
+- **Weather App** – Real-time weather information using OpenWeatherMap API.  
 
 ---
 
-## 🌍 Let's Connect!  
+## 🌍 Connect with Me  
 
 - **Email**: [rajvaishnavi475@gmail.com](mailto:rajvaishnavi475@gmail.com)  
 - **LinkedIn**: [Vaishnavi Raj](https://www.linkedin.com/in/vaishnaviraj721/)  
 - **GitHub**: [vaishnavirj15](https://github.com/vaishnavirj15)  
 
----  
+---
 
+✨ *Open to collaborations, internships, and full-time opportunities in **Machine Learning, Data Science, Backend, and Software Development**.*  
 
-
-✨ *Open to collaborations, internships, and full-time opportunities in **Machine Learning**, **Backend Development**, and **Software Development**.*  
 
 
 
