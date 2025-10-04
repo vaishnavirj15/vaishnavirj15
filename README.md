@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Vaishnavi Raj  
 **B.Tech Information Technology | Class of 2025**  
-**Aspirirng Data analyst | Machine Learning Enthusiast | Backend Developer**  
+**Aspirirng Data Analyst | Machine Learning Enthusiast | Backend Developer**  
 
 ---
 
 ## 🚀 About Me  
-I am a **B.Tech IT graduate (Class of 2025)** from **Birla Institute of Technology, Mesra (Patna Campus)** with a strong passion for **Data Engineering, Analytics, and Machine Learning**.  
+I am a **B.Tech IT graduate (Class of 2025)** from **Birla Institute of Technology, Mesra** with a strong passion for **Data Engineering, Analytics, and Machine Learning**.  
 - 💼 Completed internships in **AI & Cloud** at **Edunet Foundation**, **Backend Development** at **To-Let Globe**, and **Software Development** at **CSIR-URDIP**.  
 - 🔬 Skilled in designing and deploying **ML models, predictive analytics, and data-driven solutions**.  
 - 🌱 Continuously learning and applying emerging technologies to solve real-world problems.  
