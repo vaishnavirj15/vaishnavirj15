@@ -70,6 +70,12 @@ I aim to contribute to projects that **leverage data and ML to drive actionable 
 
 ---
 
+## 🎖️ HackerRank Badge
+-🥇SQL (GOLD)
+- **HackerRank**: [https://www.hackerrank.com/profile/rajvaishnavi475]
+  
+---
+
 ## 🌍 Connect with Me  
 
 - **Email**: [rajvaishnavi475@gmail.com](mailto:rajvaishnavi475@gmail.com)  
