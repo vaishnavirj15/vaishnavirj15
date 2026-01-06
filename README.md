@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaishnavi Raj  
-##**B.Tech Information Technology | Class of 2025**  
-##**Aspirirng Data Analyst | Machine Learning Enthusiast |**  
+**B.Tech Information Technology | Class of 2025**  
+**Aspirirng Data Analyst | Machine Learning Enthusiast |**  
 
 ---
 
