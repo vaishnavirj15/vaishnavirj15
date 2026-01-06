@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 I am a **B.Tech IT graduate (Class of 2025)** from **Birla Institute of Technology, Mesra** with a strong passion for **Data analytics, and Machine Learning**.  
-- 💼 Completed internships in **AI & Cloud** at **Edunet Foundation**, **Backend Development** at **To-Let Globe**, and **Software Development** at **CSIR-URDIP**.  
+- 💼 Done internships in **AI & Cloud** at **Edunet Foundation**, **Backend Development** at **To-Let Globe**, and **Software Development** at **CSIR-URDIP**.  
 - 🔬 Skilled in designing and deploying **ML models, predictive analytics, and data-driven solutions**.  
 - 🌱 Continuously learning and applying emerging technologies to solve real-world problems.  
 
@@ -44,7 +44,12 @@ I aim to contribute to projects that **leverage data and ML to drive actionable 
 ### **Customer & Sales Data Warehouse**  
 - Designed and implemented a **SQL Server-based Data Warehouse** for a bike retail business.  
 - Built **ETL pipelines, schemas, and views** for clean and structured data.  
-- Visualized **key metrics and insights using Power BI** to support business decisions.  
+- Visualized **key metrics and insights using Power BI** to support business decisions.
+
+### **CLV Prediction using BG/NBD**
+- Analyzes Olist e-commerce data to estimate future purchase frequency and monetary value per customer.
+- Includes RFM feature engineering, probabilistic CLV modeling, and an interactive Power BI dashboard for business insights.
+- Helps identify high-value customers and supports data-driven marketing and retention strategies.
 
 ### **Disease Prediction Platform**  
 - Developed **ML models** to predict risks for diseases like diabetes and heart disease with **90%+ accuracy**.  
