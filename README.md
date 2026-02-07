@@ -1,41 +1,52 @@
 # 👋 Hi, I'm Vaishnavi Raj  
 **B.Tech Information Technology | Class of 2025**  
-**Aspirirng Data Analyst | Machine Learning Enthusiast |**  
+**Cloud Data Analyst | SQL • BigQuery • Power BI • Looker • Python**  
+
+---
+## 🚀 About me
+
+I’m a B.Tech IT graduate from Birla Institute of Technology, Mesra (Class of 2025) with hands-on experience in data analytics, SQL-based data modeling, and cloud analytics workflows.
+
+I work at the intersection of SQL, cloud data platforms, and BI tools to transform raw, messy data into analytics-ready datasets and actionable insights. I’ve built data warehouses, ETL pipelines, and dashboards, with applied exposure to machine learning for analytical problem-solving and anomaly detection.
+
+I’m currently focused on entry-level Data Analyst / Cloud Analytics roles where data quality, scalability, and business impact matter.
 
 ---
 
-## 🚀 About Me  
-I am a **B.Tech IT graduate (Class of 2025)** from **Birla Institute of Technology, Mesra** with a strong passion for **Data analytics, and Machine Learning**.  
-- 💼 Done internships in **AI & Cloud** at **Edunet Foundation**, **Backend Development** at **To-Let Globe**, and **Software Development** at **CSIR-URDIP**.  
-- 🔬 Skilled in designing and deploying **ML models, predictive analytics, and data-driven solutions**.  
-- 🌱 Continuously learning and applying emerging technologies to solve real-world problems.  
+## 💼 Expereince  
+**Software Developer Intern — CSIR-URDIP**
 
-I aim to contribute to projects that **leverage data and ML to drive actionable insights** and make a measurable impact.  
+**AI & Cloud Intern — Edunet Foundation (AICTE)**
+
+**Backend Developer Intern — To-Let Globe**
 
 ---
 
 ## 💡 Technical Skills  
 
-### **Programming & Data Analysis**  
-- Python, C, C++, Java  
-- Pandas, NumPy, Scikit-learn, TensorFlow  
-- NLP: NLTK, Hugging Face  
+### **Data Analytics**  
+- SQL (CTEs, Window Functions)
+- Data Cleaning & Validation  
+- ETL Pipelines
+- Data Warehousing (Star Schema)
 
-### **Data Visualization & BI**  
-- Matplotlib, Seaborn, Plotly  
-- Power BI, Tableau  
+### **Programming & Analytics Tools**  
+- Python (Pandas, NumPy, Scikit-learn)
+- Jupyter Notebook
+- Advanced Excel
 
-### **Web & Backend Development**  
-- MERN Stack (MongoDB, Express.js, React, Node.js)  
-- Flask, Streamlit  
-- HTML, CSS, JavaScript  
+### **Visualization & BI**  
+- Power BI 
+- Looker (Google Cloud) 
+- Matplotlib, Seaborn
 
 ### **Databases & Cloud**  
-- MongoDB, MySQL, Microsoft SQL Server  
-- IBM Cloud  
+- Google BigQuery
+- Cloud-based Analytics Pipelines
 
-### **Version Control & Tools**  
-- Git, GitHub, Jupyter Notebook, Google Colab  
+### **Supporting Skills**  
+- Applied Machine Learning
+- Git & GitHub
 
 ---
 
@@ -45,34 +56,40 @@ I aim to contribute to projects that **leverage data and ML to drive actionable 
 - Designed and implemented a **SQL Server-based Data Warehouse** for a bike retail business.  
 - Built **ETL pipelines, schemas, and views** for clean and structured data.  
 - Visualized **key metrics and insights using Power BI** to support business decisions.
+- Tech: SQL Server | Star Schema
 
 ### **CLV Prediction using BG/NBD**
 - Analyzes Olist e-commerce data to estimate future purchase frequency and monetary value per customer.
 - Includes RFM feature engineering, probabilistic CLV modeling, and an interactive Power BI dashboard for business insights.
 - Helps identify high-value customers and supports data-driven marketing and retention strategies.
+- Tech: Python | Power BI
+
+### **LSTM-Based Intrusion Detection System (IDS)**  
+- Analyzed 125K+ records to identify anomalous network behavior
+- Engineered features and evaluated models with focus on interpretability and insights
+- Developed a **bi-directional LSTM model** to detect network intrusions. 
+- Integrated into a Flask application for real-time monitoring.
+- Tech: Python | Pandas | Scikit-learn | TensorFlow | Visualization 
 
 ### **Disease Prediction Platform**  
 - Developed **ML models** to predict risks for diseases like diabetes and heart disease with **90%+ accuracy**.  
 - Deployed interactive dashboards using **Streamlit** and **Google Colab** for end-user accessibility.  
 
-### **Face Recognition Attendance System**  
-- Built a **Flask-based facial recognition system** for automated attendance.  
-- Used **OpenCV** and **dlib**, achieving real-time recognition and efficient data logging.  
-
-### **Text Summarizer & Translator**  
-- Streamlit application to **summarize and translate text** from URLs or input text in multiple languages.  
-- Utilized **NLP models** for accurate and contextual summarization.  
-
-### **LSTM-Based Intrusion Detection System (IDS)**  
-- Developed a **bi-directional LSTM model** to detect network intrusions.  
-- Integrated into a Flask application for real-time monitoring.  
 
 ### **Additional Projects**  
+- **Face Recognition Attendance System**: Flask based application for automated attendance using OpenCV.
+- **Text Summarizer & Translator**: Streamlit application to summarize and translate text from URLs or input text in multiple languages.
 - **Hospital Management System** – Full-stack web application managing hospital operations.  
 - **Google Translator App** – Desktop app using Python and Tkinter.  
 - **Space Exploration Web App** – Interactive educational platform.  
 - **Weather App** – Real-time weather information using OpenWeatherMap API.  
 
+---
+
+### 🎓 Certifications
+- Google Cloud Data Analytics Professional Certificate
+- **Link**: [https://coursera.org/share/b9ca557f32aa13ef1bec96d72383f604] 
+  *(BigQuery, Looker, cloud-based analytics workflows)*
 ---
 
 ## 🎖️ HackerRank Badge
@@ -89,7 +106,7 @@ I aim to contribute to projects that **leverage data and ML to drive actionable 
 
 ---
 
-✨ *Open to collaborations, internships, and full-time opportunities in **Data Analytics, Machine learning**  
+✨ *Open to collaborations, internships, and full-time opportunities in **Data Analytics**  
 
 
 
