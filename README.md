@@ -106,7 +106,7 @@ I’m currently focused on entry-level Data Analyst / Cloud Analytics roles wher
 
 ---
 
-✨ *Open to collaborations, internships, and full-time opportunities in **Data Analytics**  
+✨ *Open to collaborations, internships, and full-time opportunities in **Data Analytics** * 
 
 
 
