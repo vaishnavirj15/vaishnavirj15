@@ -58,11 +58,11 @@ I’m currently focused on entry-level Data Analyst / Cloud Analytics roles wher
 - Visualized **key metrics and insights using Power BI** to support business decisions.
 - Tech: SQL Server | Star Schema
 
-### **CLV Prediction using BG/NBD**
-- Analyzes Olist e-commerce data to estimate future purchase frequency and monetary value per customer.
-- Includes RFM feature engineering, probabilistic CLV modeling, and an interactive Power BI dashboard for business insights.
-- Helps identify high-value customers and supports data-driven marketing and retention strategies.
-- Tech: Python | Power BI
+### **Space Data Analysis**
+- Developed an end-to-end data lifecycle analyzing 65 years of global mission data (1957–2022).
+- Orchestrated a 4-stage pipeline: Python (Cleaning/EDA) → SQL (KPI Engineering) → Power BI (Interactive Reporting).
+- Engineered complex SQL metrics and DAX measures to identify "Big Players" and track the evolution of mission success rates.
+- Tech: Python | SQL | Power BI
 
 ### **LSTM-Based Intrusion Detection System (IDS)**  
 - Analyzed 125K+ records to identify anomalous network behavior
